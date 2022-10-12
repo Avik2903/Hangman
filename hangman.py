@@ -2,8 +2,6 @@ from tkinter import *
 from tkinter import messagebox
 from string import ascii_uppercase
 import random
-
-
 window = Tk()
 window.title('Hangman-GUESS CITIES NAME')
 word_list= ['MUMBAI','DELHI','BANGLORE','HYDRABAD','AHMEDABAD','CHENNAI','KOLKATA','SURAT','PUNE','JAIPUR','AMRITSAR','ALLAHABAD','RANCHI',
